@@ -23,7 +23,7 @@ a {
     cursor: pointer;
     border-radius: 3px;
     border: none;
-    outline: none;
+    outline: none; 
 }
 
 .header {
